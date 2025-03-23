@@ -39,7 +39,7 @@ Prerequisites
 Installation
 
 Clone the repository:
-git clone https://github.com/your-username/elpais-scraper.git
+git clone https://github.com/Pratham9798/elpais-scraper.git
 cd elpais-scraper
 
 Create a virtual environment:
