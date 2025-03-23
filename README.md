@@ -1,4 +1,5 @@
 El País Web Scraping Project
+
 This project demonstrates web scraping, API integration, and cross-browser testing using Selenium and BrowserStack. The goal is to scrape articles from the Opinion section of the Spanish news website El País, translate the article titles to English, and analyze the translated headers for repeated words. The solution is tested across multiple browsers and devices using BrowserStack.
 
 Table of Contents
